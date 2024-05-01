@@ -1,0 +1,303 @@
+@media(min-width:480px) {
+    * {
+
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+    /* section 1 */
+    header {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header .logo h1 {
+        padding: 15px 0px;
+    }
+
+    .menu {
+        width: 100%;
+        padding: 15px 0px;
+    }
+
+    .list {
+        justify-content: center;
+    }
+
+    .mainlist {
+        padding: 0px 10px;
+    }
+
+    .social i {
+        padding: 15px 10px;
+    }
+
+    /* section 2 */
+    .subabout h1 {
+        font-size: 33px;
+    }
+
+    .subabout {
+        width: 90%;
+        margin: auto;
+    }
+
+    /* section3 */
+    .subform {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .box1 {
+        width: 100%;
+        height: 100px;
+    }
+
+    .form1 {
+        width: 90%;
+        height: auto;
+        margin: auto;
+    }
+
+    .btn2 {
+        text-transform: uppercase;
+        width: 50%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+
+@media(min-width:720px) {
+    * {
+
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+    /* section 1 */
+    header {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header .logo h1 {
+        padding: 15px 0px;
+    }
+
+    .menu {
+        width: 100%;
+        padding: 15px 0px;
+    }
+
+    .list {
+        justify-content: center;
+    }
+
+    .mainlist {
+        padding: 0px 10px;
+    }
+
+    .social i {
+        padding: 15px 10px;
+    }
+
+    /* section 2 */
+    .subabout h1 {
+        font-size: 33px;
+    }
+
+    .subabout {
+        width: 90%;
+        margin: auto;
+    }
+
+    /* section3 */
+    .subform {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .box1 {
+        width: 100%;
+        height: 100px;
+    }
+
+    .form1 {
+        width: 80%;
+        height: auto;
+        margin: auto;
+    }
+
+    .btn2 {
+        text-transform: uppercase;
+        width: 40%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+
+@media(min-width:991px) {
+    * {
+
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+    /* section 1 */
+    header {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .header .logo h1 {
+        padding: 0px 0px;
+    }
+
+    .menu {
+        width: auto;
+        padding: 0px 0px;
+    }
+
+    .list {
+        justify-content: center;
+    }
+
+    .mainlist {
+        padding: 0px 10px;
+    }
+
+    .social i {
+        padding: 0px 10px;
+    }
+
+    /* section 2 */
+    .subabout h1 {
+        font-size: 42px;
+    }
+
+    .subabout {
+        width: 70%;
+        margin: auto;
+    }
+
+    /* section3 */
+    .subform {
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .box1 {
+        width: 32%;
+        height: 100px;
+    }
+
+    .form1 {
+        width: 80%;
+        height: auto;
+        margin: auto;
+    }
+
+    .btn2 {
+        text-transform: uppercase;
+        width: 26%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+
+@media(min-width:1230px) {
+    * {
+
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+    /* section 1 */
+    header {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .header .logo h1 {
+        padding: 0px 0px;
+    }
+
+    .menu {
+        width: auto;
+        padding: 0px 0px;
+    }
+
+    .list {
+        justify-content: center;
+    }
+
+    .mainlist {
+        padding: 0px 20px;
+    }
+
+    .social i {
+        padding: 0px 10px;
+    }
+
+    /* section 2 */
+    .subabout h1 {
+        font-size: 42px;
+    }
+
+    .subabout {
+        width: 40%;
+        margin: auto;
+    }
+
+    /* section3 */
+    .subform {
+        width: 70%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .box1 {
+        width: 32%;
+        height: 100px;
+    }
+
+    .form1 {
+        width: 70%;
+        height: auto;
+        margin: auto;
+    }
+
+    .btn2 {
+        text-transform: uppercase;
+        width: 17.5%;
+        margin: auto;
+        margin-top: 30px;
+    }
+}
